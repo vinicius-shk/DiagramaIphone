@@ -1,4 +1,4 @@
-# DiagramaIphone
+# Diagrama Iphone
 Exercicio de java backend para conceitos de POO
 
 ## Diagrama UML
